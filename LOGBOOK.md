@@ -35,15 +35,20 @@ Awareness Tool: Provides easy-to-use digital support for patients in rural or re
 Educational Resource: Demonstrates how machine learning can be applied in healthcare systems.
 
 Future Scope: Can be extended to include mobile apps, real-time monitoring, and integration with wearable devices.
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 Literature Survey   Date: 1/09/2025 to 13/09/2025
 
@@ -91,20 +96,20 @@ PMC
 Limited Clinical Utility: Few studies integrate models into end-to-end applications (UI, DB, deployment) or validate performance in real clinical workflows. This gap motivates your project’s focus on deployment and user dashboards. 
 PMC
 +1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 Methodology  Date: 19/09/2025
 
 🔹 Hardware and Software Requirements
