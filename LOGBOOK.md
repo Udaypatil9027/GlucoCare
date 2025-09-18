@@ -1,5 +1,7 @@
 📖 Project Logbook
+
 🗓 Date: 18/08/2025 – 30/08/2025
+
 🔹 Introduction
 
 Diabetes is one of the most common chronic diseases worldwide, and early detection is critical to prevent severe health complications. With the rise of machine learning and artificial intelligence, healthcare can benefit from predictive systems that analyze medical data and provide reliable insights. This project, GlucoCare, aims to develop a machine learning–based web application for predicting diabetes risk and offering lifestyle suggestions. The system combines multiple ML algorithms, evaluates their performance, and integrates the most accurate model into a user-friendly web interface for real-time prediction.
@@ -36,8 +38,11 @@ Educational Resource: Demonstrates how machine learning can be applied in health
 
 Future Scope: Can be extended to include mobile apps, real-time monitoring, and integration with wearable devices.
 
+
 🗓 Date: 01/09/2025 – 13/09/2025
+
 🔹 Literature Survey
+
 Background
 
 Machine-learning methods have been widely applied to predict diabetes from clinical features (glucose, BMI, blood pressure, insulin, age, etc.). The Pima Indians Diabetes Dataset (UCI / Kaggle) is a standard benchmark used in many studies for training and comparing classification algorithms. ML pipelines typically include preprocessing, model comparison (LR, SVM, RF, boosting), and evaluation using metrics such as precision, recall, F1 and AUC.
@@ -78,8 +83,11 @@ PMC
 Limited Clinical Utility: Few studies integrate models into end-to-end applications (UI, DB, deployment) or validate performance in real clinical workflows. This gap motivates your project’s focus on deployment and user dashboards.
 PMC
 
+
 🗓 Date: 19/09/2025
+
 🔹 Methodology
+
 Hardware and Software Requirements
 
 Hardware:
