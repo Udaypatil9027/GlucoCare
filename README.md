@@ -3,7 +3,7 @@
 
 The Diabetes Prediction System is a machine learning–based application that predicts whether a person is diabetic or non-diabetic using medical and lifestyle parameters. Early detection of diabetes helps in preventing severe health complications and supports better medical decision-making.
 
-This project uses supervised machine learning algorithms trained on historical medical data to provide accurate predictions based on user inputs.
+This project uses supervised machine learning algorithms trained on historical medical data to provide right predictions based on user inputs.
 
 🎯 Objectives
 Predict diabetes at an early stage using machine learning
